@@ -1,4 +1,4 @@
-[![Header](https://github.com/jonhdiel/jonhdiel/blob/main/anime.jpg "Header")](https://github.com/jonhdiel)
+[![Header](https://github.com/jonhdiel/jonhdiel/blob/master/anime.jpg "Header")](https://github.com/jonhdiel)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
