@@ -6,7 +6,7 @@ My name is João Diel and I'm a software developer. I'm from Brazil. You can fin
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [Medium](https://medium.com/@diel) as well as on [DEV.to](https://dev.to/diel).
+Apart from coding, I also maintain a blog - you can find my articles on [DEV.to](https://dev.to/jonhdiel).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
