@@ -1,12 +1,6 @@
-[![Header](https://github.com/jonhdiel/jonhdiel/blob/master/anime.jpg "Header")](https://github.com/jonhdiel)
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is João Diel and I'm a software developer. I'm from Brazil. You can find me on [![LinkedIn][3.2]][3].
-
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on [DEV.to](https://dev.to/jonhdiel).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -48,3 +42,5 @@ Apart from coding, I also maintain a blog - you can find my articles on [DEV.to]
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 [![Diel stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jonhdiel&size_weight=0.5&count_weight=0.5)](https://github.com/jonhdiel/github-readme-stats)
+
+[![Header](https://github.com/jonhdiel/jonhdiel/blob/master/anime.jpg "Header")](https://github.com/jonhdiel)
